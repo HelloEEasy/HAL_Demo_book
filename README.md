@@ -177,7 +177,7 @@ CubeMX 工程完成外设初始化后调用 `APP_Init()`，主循环调用 `APP_
 模块私有 `static`、固定宽度整数、头文件 include guard、函数作用域、链接脚本
 与启动入口。
 
-## 22. 面试题
+## 22. confront in person
 
 1. 为什么 `HAL_Init()` 必须在外设 HAL API 之前执行？
 2. APB1 为 36 MHz 时，为什么部分定时器时钟可能仍是 72 MHz？
